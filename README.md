@@ -1,4 +1,4 @@
 # My-Demo
 This is my first Git repository.<br>
-Author - Siddharth Thapa
+Author - Siddharth Thapa<br>
 clone
