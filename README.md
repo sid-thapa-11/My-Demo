@@ -1,3 +1,3 @@
 # My-Demo
 This is my first Git repository.<br>
-Author - Siddharth Thapa
+<marquee>Author - Siddharth Thapa<marquee/>
